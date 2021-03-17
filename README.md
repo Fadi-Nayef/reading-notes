@@ -4,7 +4,7 @@ here is the reading assigments
 
 | Name      | link     |
 |-----------|----------|
-| Read 02a|[Read02a](read02.md) |       
+| Read 02a|[Read02a](read02a.md) |       
 | Read 02b |    [Read02b](read02b.md)      |
 | Read 03 |  [Read03](read03.md)    | 
 
