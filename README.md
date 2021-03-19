@@ -7,4 +7,4 @@ here is the reading assigments
 | Read 02a|[Read02a](read02a.md) |       
 | Read 02b |    [Read02b](read02b.md)      |
 | Read 03 |  [Read03](read03.md)    | 
-
+|Read 04|[Read04](read04.md)  |
