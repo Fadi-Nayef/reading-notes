@@ -10,10 +10,10 @@ here is the ***CODE102***  reading assigments
 |Read 04|[Read04](102/read04a.md)  |
 |Read 05|[Read05](102/read05.md) |
 |Read 06|[Read06](102/read06.md) |
-
-***CODE201*** reading assignments 
-| Assignments   | link     |
-|-----------|----------|
+|--------|
+| ## ***CODE201*** reading assignments | 
+| Assignments   | link                                                  |
+|:-----------:|:-----------------------------------------------------------|
 | Read 01|[Read:01-Introductory HTML and JavaScript](201/Read20101.md)|       
 | Read 02|[Read:02-HTMLText,CSSIntroduction,andBasicJavaScriptInstructions](201/read20102.md)|
 | Read 03|[Read:03-HTML Lists,CSS Boxes,JS Control Flow](201/read20103.md)| 
