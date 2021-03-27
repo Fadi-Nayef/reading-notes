@@ -1,6 +1,6 @@
 # hello!! here is Fadi Nayef ,
 
-here is the ***CODE102***  reading assigments 
+## ***CODE102***  reading assigments 
 
 | Assignments   | link     |
 |-----------|----------|
@@ -10,10 +10,12 @@ here is the ***CODE102***  reading assigments
 |Read 04|[Read04](102/read04a.md)  |
 |Read 05|[Read05](102/read05.md) |
 |Read 06|[Read06](102/read06.md) |
-|--------|
-| ## ***CODE201*** reading assignments | 
-| Assignments   | link                                                  |
-|:-----------:|:-----------------------------------------------------------|
+
+
+### ***CODE201*** reading assignments 
+ 
+| Assignments   | link       |
+|  :-------:  | :------  |
 | Read 01|[Read:01-Introductory HTML and JavaScript](201/Read20101.md)|       
 | Read 02|[Read:02-HTMLText,CSSIntroduction,andBasicJavaScriptInstructions](201/read20102.md)|
 | Read 03|[Read:03-HTML Lists,CSS Boxes,JS Control Flow](201/read20103.md)| 
@@ -25,7 +27,7 @@ here is the ***CODE102***  reading assigments
 |Read 09|[Read: 09 - Forms and Events](201/read20109.md)|
 |Read 10| [Read: 10 - JS Debugging](201/read20110.md)|
 |Read 11| [Read: 11 - Assorted Topics](201/read20111.md)|
-|Read 12| [Read: 12 - Docs for the HTML <canvas> Element & Chart](201/read20112.md)|
+|Read 12| [Read: 12 - Docs for the HTML<canvas>Element&Chart](201/read20112.md)|
 |Read 13| [Read: 13 - Local Storage](201/read20113.md)|
 |Read 14a| [Read: 14a - CSS Transforms, Transitions, and Animations](201/read20114a.md)|
 |Read 14b| [Read: 14b - What Google Learned About Teams](201/read20114b.md)|
