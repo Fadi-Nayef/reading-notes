@@ -16,7 +16,7 @@
  
 | Assignments   | link       |
 |  :-------:  | :------  |
-| Read 01|[Read:01-Introductory HTML and JavaScript](201/Read20101.md)|       
+| Read 01|[Read:01-Introductory HTML and JavaScript](201/read20101.md)|       
 | Read 02|[Read:02-HTMLText,CSSIntroduction,andBasicJavaScriptInstructions](201/read20102.md)|
 | Read 03|[Read:03-HTML Lists,CSS Boxes,JS Control Flow](201/read20103.md)| 
 |Read 04|[Read:04-HTML Links, CSS Layout, JS Functions](201/read20104.md)|
