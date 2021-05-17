@@ -31,3 +31,23 @@
 |Read 13| [Read: 13 - Local Storage](201/read20113.md)|
 |Read 13b| [Read: 13b - CSS Transforms, Transitions, and Animations](201/read20113b.md)|
 |Read 14b| [Read: 14b - What Google Learned About Teams](201/read20114b.md)|
+
+
+### ***CODE201*** reading assignments 
+ 
+| Assignments   | link       |
+|  :-------:  | :------  |
+| Read 01|[Read:01-Introduction to React and Components](301/read30101.md)|       
+| Read 02|[Read:02-](301/read30102.md)|
+| Read 03|[Read:03-](301/read30103.md)| 
+|Read 04|[Read:04-](301/read30104.md)|
+|Read 05|[Read: 05 - ](301/read30105.md)|
+|Read 06| [Read: 06 - ](301/read30106.md)|
+|Read 07| [Read: 07 - ](301/read30107.md)|
+|Read 08| [Read: 08 - ](301/read30108.md)|
+|Read 09|[Read: 09 - ](301/read30109.md)|
+|Read 10|[Read:04-](301/read301010.md)|
+|Read 11|[Read: 05 - ](301/read301011.md)|
+|Read 12| [Read: 06 - ](301/read301012.md)|
+|Read 13| [Read: 07 - ](301/read301013.md)|
+|Read 14| [Read: 08 - ](301/read301014.md)|
