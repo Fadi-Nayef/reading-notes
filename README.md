@@ -39,7 +39,7 @@
 |  :-------:  | :------  |
 | Read 01|[Read:01-Introduction to React and Components](301/read30101.md)|       
 | Read 02|[Read:02-](301/read30102.md)|
-| Read 03|[Read:03-](301/read30103.md)| 
+| Read 03|[Read:03-Passing Functions as Props](301/read30103.md)| 
 |Read 04|[Read:04-](301/read30104.md)|
 |Read 05|[Read: 05 - ](301/read30105.md)|
 |Read 06| [Read: 06 - ](301/read30106.md)|
