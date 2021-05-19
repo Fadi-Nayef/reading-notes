@@ -41,7 +41,7 @@
 | Read 02|[Read:02-State and Props](301/read30102.md)|
 | Read 03|[Read:03-Passing Functions as Props](301/read30103.md)| 
 |Read 04|[Read:04-React and Forms](301/read30104.md)|
-|Read 05|[Read: 05 - ](301/read30105.md)|
+|Read 05|[Read: 05 -Putting it all together ](301/read30105.md)|
 |Read 06| [Read: 06 - ](301/read30106.md)|
 |Read 07| [Read: 07 - ](301/read30107.md)|
 |Read 08| [Read: 08 - ](301/read30108.md)|
