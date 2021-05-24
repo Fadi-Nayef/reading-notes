@@ -44,7 +44,7 @@
 |Read 05|[Read: 05 -Putting it all together ](301/read30105.md)|
 |Read 06| [Read: 06 -NODE.JS ](301/read30106.md)|
 |Read 07| [Read: 07 -REST ](301/read30107.md)|
-|Read 08| [Read: 08 - ](301/read30108.md)|
+|Read 08| [Read: 08 - APIs](301/read30108.md)|
 |Read 09|[Read: 09 - ](301/read30109.md)|
 |Read 10|[Read:04-](301/read301010.md)|
 |Read 11|[Read: 05 - ](301/read301011.md)|
