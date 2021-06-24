@@ -1,6 +1,8 @@
 # hello!! here is Fadi Nayef ,
 
-## ***CODE102***  reading assigments 
+# ***CODE-102 Intro to Software Development***
+
+## Reading Assignments 
 
 | Assignments   | link     |
 |-----------|----------|
@@ -11,9 +13,12 @@
 |Read 05|[Read05](102/read05.md) |
 |Read 06|[Read06](102/read06.md) |
 
+***
 
-### ***CODE201*** reading assignments 
- 
+# ***CODE-201 Foundations of Software Development***
+
+## Reading Assignments 
+
 | Assignments   | link       |
 |  :-------:  | :------  |
 | Read 01|[Read:01-Introductory HTML and JavaScript](201/read20101.md)|       
@@ -32,8 +37,11 @@
 |Read 13b| [Read: 13b - CSS Transforms, Transitions, and Animations](201/read20113b.md)|
 |Read 14b| [Read: 14b - What Google Learned About Teams](201/read20114b.md)|
 
+ ***
 
-### ***CODE301*** reading assignments 
+# ***CODE-301 Intermediate Software Development***
+ 
+## Reading Assignments 
  
 | Assignments   | link       |
 |  :-------:  | :------  |
@@ -51,3 +59,42 @@
 |Read 12| [Read: 12 - Mongo and Mongoose ](301/read301012.md)|
 |Read 13| [Read: 13 - CRUD](301/read301013.md)|
 |Read 14| [Read: 14 - ](301/read301014.md)|
+ 
+ ***
+ 
+ # ***CODE-401 Advanced Software Development***
+ 
+## Reading Assignments 
+ 
+| Assignments   | link       |
+|  :-------:  | :------  |
+| Read 01|[Read:01-Java Basics](401/read40101.md)|       
+| Read 02|[Read:02-](401/read40102.md)|
+| Read 03|[Read:03-](401/read40103.md)| 
+|Read 04|[Read:04-](401/read40104.md)|
+|Read 05|[Read: 05 - ](401/read40105.md)|
+|Read 06| [Read: 06 -](401/read40106.md)|
+|Read 07| [Read: 07 -](401/read40107.md)|
+|Read 08| [Read: 08 - ](401/read40108.md)|
+|Read 09|[Read: 09 - ](401/read40109.md)|
+|Read 10|[Read:10-](401/read40110.md)|
+|Read 11|[Read: 11 - ](401/read40111.md)|
+|Read 12| [Read: 12 - ](401/read40112.md)|
+|Read 13| [Read: 13 - ](401/read40113.md)|
+|Read 14| [Read: 14 - ](401/read40114.md)|
+|Read 15|[Read:15-](401/read40115.md)|
+|Read 16|[Read: 16 - ](401/read40116.md)|
+|Read 17| [Read: 17 - ](401/read40117.md)|
+|Read 18| [Read: 18 - ](401/read40118.md)|
+|Read 19| [Read: 19 - ](401/read40119.md)|
+|Read 20|[Read:20-](401/read40120.md)|
+|Read 21|[Read: 21 - ](401/read40121.md)|
+|Read 22| [Read: 22 - ](401/read40122.md)|
+|Read 23| [Read: 23 -](401/read40133.md)|
+|Read 24| [Read: 24 - ](401/read40124.md)|
+|Read 25|[Read:25-](401/read40125.md)|
+|Read 26|[Read: 26 -](401/read40126.md)|
+|Read 27| [Read: 27-](401/read40127.md)|
+|Read 28| [Read: 28 -](401/read40128.md)|
+|Read 29| [Read: 29 - ](401/read40129.md)|
+|Read 30| [Read: 30 - ](401/read40130.md)|
