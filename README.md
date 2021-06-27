@@ -69,32 +69,46 @@
 | Assignments   | link       |
 |  :-------:  | :------  |
 | Read 01|[Read:01-Java Basics](401/read40101.md)|       
-| Read 02|[Read:02-](401/read40102.md)|
-| Read 03|[Read:03-](401/read40103.md)| 
-|Read 04|[Read:04-](401/read40104.md)|
+| Read 02|[unread,Read: 02 - Arrays, Loops, Imports](401/read40102.md)|
+| Read 03|[Read: 03 - Maps, primitives, File I/O](401/read40103.md)| 
+|Read 04|[Read: 04 - OOP](401/read40104.md)|
 |Read 05|[Read: 05 - ](401/read40105.md)|
-|Read 06| [Read: 06 -](401/read40106.md)|
-|Read 07| [Read: 07 -](401/read40107.md)|
-|Read 08| [Read: 08 - ](401/read40108.md)|
-|Read 09|[Read: 09 - ](401/read40109.md)|
-|Read 10|[Read:10-](401/read40110.md)|
-|Read 11|[Read: 11 - ](401/read40111.md)|
-|Read 12| [Read: 12 - ](401/read40112.md)|
-|Read 13| [Read: 13 - ](401/read40113.md)|
+|Read 06| [unread,Read: 06 - Inheritance and Interfaces](401/read40106.md)|
+|Read 07| [Read: 07 -Inheritance day 2](401/read40107.md)|
+|Read 08| [Read: 08 - OO Design](401/read40108.md)|
+|Read 09|[Read: 09 - WRRC and Java](401/read40109.md)|
+|Read 10|[Read:10- ](401/read40110.md)|
+|Read 11|[Read: 11 - Spring](401/read40111.md)|
+|Read 12| [Read: 12 -Spring RESTful Routing & Static Files ](401/read40112.md)|
+|Read 13| [Read: 13 - Related Resources and Integration Testing](401/read40113.md)|
 |Read 14| [Read: 14 - ](401/read40114.md)|
 |Read 15|[Read:15-](401/read40115.md)|
-|Read 16|[Read: 16 - ](401/read40116.md)|
-|Read 17| [Read: 17 - ](401/read40117.md)|
-|Read 18| [Read: 18 - ](401/read40118.md)|
-|Read 19| [Read: 19 - ](401/read40119.md)|
+|Read 16|[Read: 16 -Spring Authentication](401/read40116.md)|
+|Read 17| [Read: 17 -Spring Authorization](401/read40117.md)|
+|Read 18| [Read: 18 -Web App Security](401/read40118.md)|
+|Read 19| [Read: 19 -Spring and Sockets](401/read40119.md)|
 |Read 20|[Read:20-](401/read40120.md)|
 |Read 21|[Read: 21 - ](401/read40121.md)|
 |Read 22| [Read: 22 - ](401/read40122.md)|
 |Read 23| [Read: 23 -](401/read40133.md)|
 |Read 24| [Read: 24 - ](401/read40124.md)|
 |Read 25|[Read:25-](401/read40125.md)|
-|Read 26|[Read: 26 -](401/read40126.md)|
-|Read 27| [Read: 27-](401/read40127.md)|
-|Read 28| [Read: 28 -](401/read40128.md)|
-|Read 29| [Read: 29 - ](401/read40129.md)|
+|Read 26|[Read: 26 -Android Fundamentals](401/read40126.md)|
+|Read 27| [Read: 27-Intents, Activities, and SharedPreferences](401/read40127.md)|
+|Read 28| [Read: 28 -RecyclerView](401/read40128.md)|
+|Read 29| [Read: 29 - Room](401/read40129.md)|
 |Read 30| [Read: 30 - ](401/read40130.md)|
+| Read 31|[Read:31-Espresso](401/read40131.md)|       
+| Read 32|[Read:32-Serverless and Amplify](401/read40132.md)|
+| Read 33|[Read:33-GraphQL @connection](401/read40133.md)| 
+|Read 34|[Read:34-Monetization](401/read40134.md)|
+|Read 35|[Read: 35 - ](401/read40135.md)|
+|Read 36| [Read: 36 -Cognito](401/read40136.md)|
+|Read 37| [Read: 37 -S3](401/read40137.md)|
+|Read 38| [Read: 38 - Notifications](401/read40138.md)|
+|Read 39|[Read: 39 -  Kinesis](401/read40139.md)|
+|Read 40|[Read:40-](401/read40140.md)|
+|Read 41|[Read: 41 - Intent Filters ](401/read40141.md)|
+|Read 42| [Read: 42 - Location](401/read40142.md)|
+|Read 43| [Read: 43 - Kinesis & Analytics](401/read40143.md)|
+|Read 44| [Read: 44 -Monetization](401/read40144.md)|
