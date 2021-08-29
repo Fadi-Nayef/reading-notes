@@ -109,6 +109,7 @@
 |Read 39|[Read: 39 -  Kinesis](401/read40139.md)|
 |Read 40|[Read:40-](401/read40140.md)|
 |Read 41|[Read: 41 - Intent Filters ](401/read40141.md)|
+ |Read 42-1|[Read: 42-1 - Ethics ](401/read40142-1.md)|
 |Read 42| [Read: 42 - Location](401/read40142.md)|
 |Read 43| [Read: 43 - Kinesis & Analytics](401/read40143.md)|
 |Read 44| [Read: 44 -Monetization](401/read40144.md)|
