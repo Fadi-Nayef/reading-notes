@@ -100,7 +100,7 @@
 |Read 30| [Read: 30 - ](401/read40130.md)|
 | Read 31|[Read:31-Espresso](401/read40131.md)|       
 | Read 32|[Read:32-Serverless and Amplify](401/read40132.md)|
-| Read 33|[Read:33-GraphQL @connection](401/read40133.md)| 
+| Read 33|[Read:33-GraphQL @connection](401/Graphs.md)| 
 |Read 34|[Read:34-Monetization](401/read40134.md)|
 |Read 35|[Read: 35 - ](401/read40135.md)|
 |Read 36| [Read: 36 -Cognito](401/read40136.md)|
